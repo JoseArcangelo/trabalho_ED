@@ -19,7 +19,7 @@
 <p>Permite a realização de cálculos diretamente na linha de comando.</p>
 
 <h3 align="justify">- Gerenciamento de erros</h3>
-<p>Trata erros de entrada de dados, como divisão por zero e expressões inválidas.</p>
+<p>Trata erros de entrada de dados, como divisão por zero e erros por falta de parenteses.</p>
 
 <h2 align="justify">FUNCIONALIDADES:</h2>
 <p>- Realizar operações matemáticas básicas (+, -, *, /).</p>
